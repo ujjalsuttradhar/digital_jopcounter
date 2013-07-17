@@ -64,14 +64,14 @@ public class gui {
         frm.add(exit);
         
         
-        start.setBounds(100, 10, 100, 25);
+        start.setBounds(10, 10, 100, 25);
         ponchototto.setBounds(30, 35, 300, 25);
         ponchototto1.setBounds(30, 35, 300, 25);
-        count.setBounds(100, 150, 100, 25);
+        count.setBounds(10, 260, 100, 25);
         mohamontro.setBounds(30, 175, 300, 25);
         mohamontro1.setBounds(30, 200, 300, 25);
-        reset.setBounds(100, 220, 100, 25);
-        exit.setBounds(100, 250, 100, 25);
+        reset.setBounds(200, 260, 100, 25);
+        exit.setBounds(400, 260, 100, 25);
 
 
 
