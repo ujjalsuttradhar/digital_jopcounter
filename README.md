@@ -1,5 +1,5 @@
-digital_jopcounter
-==================
+DIGITAL CHANTING
+================
 The people (Hindus) must chant the Hare Krishna mahamantra in this kalyug.
 But most of us afraid of chanting because of maintaing formalities. But in Srichoitonnochoritamrito,\
 Sri Krishno Choitonno Mahapravu Has told that Chanting of Mahamantra is the only solution/way to get coloser to the Vogoban
@@ -14,7 +14,7 @@ afraiding of these formalities.
 
 How to run
 ==========
-1. Download the executable file from [https://www.dropbox.com/sh/yrrpl1ei5xhwhzp/BKo5Sbs4FO][Here]
+1. Download the executable file from [https://www.dropbox.com/sh/yrrpl1ei5xhwhzp/BKo5Sbs4FO]
 2. Extract and double click on .exe for windows or .jar for MAC/LINUX)
 OR,
 1. Download the digital_jopcounter project.
