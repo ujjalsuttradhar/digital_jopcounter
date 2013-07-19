@@ -12,10 +12,12 @@ afraiding of these formalities.
 
 
 
-How to execute
+How to Test
 ==============
 1. Download the executable file from [https://www.dropbox.com/sh/yrrpl1ei5xhwhzp/BKo5Sbs4FO]
-2. Extract and double click on .exe for windows or .jar for MAC/LINUX)
+2. For windows download only the digital_jopcounter.exe, For MAC/Linux download everything of the folder without 
+   digital_jopcounter.exe
+3. After downloading the executable file , just double click on it.
 OR,
 1. Download the digital_jopcounter project.
 2. Add it to your netbeans projects.
